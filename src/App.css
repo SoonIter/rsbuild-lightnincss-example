@@ -1,3 +1,6 @@
+@import 'minify.css';
+@import 'transform.css';
+
 body {
   margin: 0;
   color: #fff;
